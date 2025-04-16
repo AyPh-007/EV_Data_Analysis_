@@ -70,6 +70,6 @@ This project provided a comprehensive view of the electric vehicle landscape in 
 Going forward, this foundation can be expanded with real-time data updates, policy overlays, and consumer behavior metrics. The insights gained not only support data-driven decisions for automakers and planners but also demonstrate the power of combining analytics with domain knowledge in transportation and sustainability.
 
 
-[> Start reviewing the questions and insights](/Python/Read.md)
+[> Start reviewing the questions and insights](/Python/README.md)
 
 [> Take a closer look at the data](/Python/)
